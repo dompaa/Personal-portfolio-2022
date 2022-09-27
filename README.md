@@ -1,3 +1,9 @@
+# Personal-portfolio-2022
+
+v.0.1
+This is my personal portfolio where you can take a sneeky peeky how it is made and used tech stack.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
