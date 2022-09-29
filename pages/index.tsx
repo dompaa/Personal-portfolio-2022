@@ -5,7 +5,7 @@ import Hero from '../components/Hero'
 
 const Home: NextPage = () => {
   return (
-    <div>
+    <div className='bg-[rgb(36,36,36)] text-white'>
       <Head>
         <title>Dominik&apos;s portfolio</title>
       </Head>
